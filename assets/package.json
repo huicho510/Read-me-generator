@@ -1,0 +1,18 @@
+{
+  "name": "read-me",
+  "version": "1.0.0",
+  "description": "read me generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "test?"
+  },
+  "repository": {
+    "type": "git",
+    "url": "read-me-generator"
+  },
+  "author": "luis cervantes",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  }
+}
