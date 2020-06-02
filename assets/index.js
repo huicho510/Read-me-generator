@@ -49,21 +49,39 @@ function promptUser() {
     {
       type: "input",
       name: "questions",
-      message: "Questions",
+      message: "Git Hub UserName",
     },
   ]);
 }
 
 function generateHTML(answers) {
   return `
-  # ${answers.title}
-  ## ${answers.description}
+# ${answers.title}
+
+## Description
+
+ ${answers.description}
+
+
+## Table of Contents 
+
  * ${answers.Table}
 
- ## ${answers.Usage}
+## Usage Instructions
+
+
+  ${answers.Usage}
+
+## License
  * ${answers.License}
 
-## ${answers.contributing}
+
+## Contributers
+
+
+ ${answers.contributing}
+
+## Git Hub UserName
 
 ### ${answers.questions}
 

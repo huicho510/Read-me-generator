@@ -1,13 +1,31 @@
 
-  # cooking app
-  ## Its a cool app that teaches you how to cook
- * 1,2,3
+# Cooking App
 
- ## Whenever you want
+## Description
+
+ Its an app that lets cook 
+
+
+## Table of Contents 
+
+ * Intro
+
+## Usage Instructions
+
+
+  You choose a meal and we teach you how to cook it
+
+## License
  * MIT
 
-## Luis Cervantes
 
-### how are you?
+## Contributers
+
+
+ Luis CERVANTES
+
+## Git Hub UserName
+
+### huicho510
 
   
