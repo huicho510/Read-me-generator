@@ -1,19 +1,22 @@
 
-# Cooking App
+# Cooking app
 
 ## Description
 
- Its an app that lets cook 
+ An app that teaches you how to cook
 
 
 ## Table of Contents 
 
- * Intro
+ * usage
+ * 
+ * 
+ * 
 
 ## Usage Instructions
 
 
-  You choose a meal and we teach you how to cook it
+  You type in a meal and the app shows you how to cook it
 
 ## License
  * MIT
@@ -22,7 +25,7 @@
 ## Contributers
 
 
- Luis CERVANTES
+ Luis Cervantes
 
 ## Git Hub UserName
 

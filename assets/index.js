@@ -23,6 +23,21 @@ function promptUser() {
     },
     {
       type: "input",
+      name: "Table1",
+      message: "Table-of-Contents(optional)",
+    },
+    {
+      type: "input",
+      name: "Table2",
+      message: "Table-of-Contents(optional)",
+    },
+    {
+      type: "input",
+      name: "Table3",
+      message: "Table-of-Contents(optional)",
+    },
+    {
+      type: "input",
       name: "Installation",
       message: "Installation",
     },
@@ -66,6 +81,9 @@ function generateHTML(answers) {
 ## Table of Contents 
 
  * ${answers.Table}
+ * ${answers.Table1}
+ * ${answers.Table2}
+ * ${answers.Table3}
 
 ## Usage Instructions
 
